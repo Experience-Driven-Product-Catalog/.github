@@ -14,5 +14,5 @@
 
 백문불여일견, 다음 영상에서는 이러한 문제 정의에서 출발해 선행 연구를 기반으로 가설을 설계하고, 실험을 통해 이를 검증한 뒤, 검증된 방법을 운영 가능한 카탈로그 시스템과 실제 상품 의사결정 로직으로 확장한 과정을 설명합니다.
 
-[![https://www.youtube.com/watch?v=GGXuIrd-7jE](https://raw.githubusercontent.com/Hear-is-Hear-ease/.github/refs/heads/main/assets/screenshots/youtube_thumbnail.png)](https://www.youtube.com/watch?v=GGXuIrd-7jE)
+이미지 지우키. 캐시 확인할 것.
 
