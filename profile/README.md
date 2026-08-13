@@ -1,5 +1,3 @@
-[![https://www.youtube.com/watch?v=GGXuIrd-7jE](https://raw.githubusercontent.com/Hear-is-Hear-ease/.github/refs/heads/main/assets/screenshots/youtube_thumbnail.png)](https://www.youtube.com/watch?v=GGXuIrd-7jE)
-
 ## 리뷰 속 근거 있는 체감 속성을 비교·검색 가능한 카탈로그 시스템으로
 ### 문제 제기
 
