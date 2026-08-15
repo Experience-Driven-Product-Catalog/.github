@@ -1,4 +1,7 @@
+[![https://www.youtube.com/watch?v=vFw-rqG7u-c](https://raw.githubusercontent.com/Experience-Driven-Product-Catalog/review-catalog-platform/refs/heads/main/assets/yt_thumbnail.png)](https://www.youtube.com/watch?v=vFw-rqG7u-c)
+
 ## 리뷰 속 근거 있는 체감 속성을 비교·검색 가능한 카탈로그 시스템으로
+
 ### 문제 제기
 
 본 포토폴리오의 문제 제기는 LEVIT의 PMF 팀 블로그에서 제시된 '[기존 카탈로그 시스템의 한계](https://blog.alwayz.co/jj#%E1%84%89%E1%85%AD%E1%84%91%E1%85%B5%E1%86%BC%E1%84%87%E1%85%B5%E1%84%89%E1%85%A5%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%86%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%AB-%E1%84%89%E1%85%A2%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%AB-%E1%84%8F%E1%85%A1%E1%84%90%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3-%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7%E1%84%8B%E1%85%B5-%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%84%83%E1%85%A1%E1%84%80%E1%85%A9-%E1%84%91%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A1%E1%86%AB%E1%84%92%E1%85%A1%E1%84%89%E1%85%A7%E1%86%BB%E1%84%82%E1%85%A1%E1%84%8B%E1%85%AD)'에서 출발합니다.
